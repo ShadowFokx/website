@@ -1,0 +1,66 @@
+body {
+  background-color: #DBF9FC;
+  }
+
+a {
+  font-family: 'Roboto';
+}
+
+p {
+  font-family: 'Roboto';
+}
+
+.login  {
+  border: 3px solid lightslategray;
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  width: 50%;
+  width: 400px;
+}
+
+.email-input  {
+  display: block;
+  width: 300px;
+  height: 30px;
+  border-radius: 9px;
+  margin-bottom: 5px;
+}
+
+.password-input {
+  display: block;
+  width: 300px;
+  height: 30px;
+  border-radius: 9px;
+}
+
+.nav {
+  border-radius: 10px;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+  border: 3px solid lightslategray;
+}
+
+#login {
+  float: right;
+}
+
+.login-text {
+  font-weight: bold;
+  font-size: 27px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.login-button {
+  width: 300px;
+  height: 30px;
+  border-radius: 18px;
+  border-color: #73f0fc;
+  border-style: solid;
+  background-color: #73f0fc;
+  margin-top: 5px;
+  display: block;
+}
